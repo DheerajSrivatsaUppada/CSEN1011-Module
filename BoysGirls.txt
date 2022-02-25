@@ -1,0 +1,9 @@
+Algorithm for Boys and Girls
+1.START
+2.Input the number of boys (B)
+3.Input the number of girls (g)
+4.Form the SETS I,B,G
+5.Input the values in the formula
+6.Solve it
+7.Display the ANSWER
+8.END
