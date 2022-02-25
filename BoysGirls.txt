@@ -1,0 +1,10 @@
+Algorithm for chessboard
+1.START
+2.Enter Input for First Row (Row1)
+3.Enter Input for Second Row (Row2) 
+4.Enter Input for First Column (Column1)
+5.Enter Input for Second Column (Column2)
+6.Enter the Sum for given Inputs
+7.Check if TRUE or FALSE
+8.Display TRUE or FALSE 
+9.END
